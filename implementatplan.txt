@@ -1,0 +1,21 @@
+Implementation Plan
+
+
+
+- prompt user to input a string to add a task
+
+
+
+- allow user to input a task with a '?' to add the task without knowing if they
+
+are sure about it
+
+
+
+- Ask whether each task on the list is completed or not and then cross out
+
+completed tasks without deleting them
+
+
+
+- reorder the list once it cycles through all tasks
